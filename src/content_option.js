@@ -50,6 +50,10 @@ const skills = [
     value: 100,
   },
   {
+    name: "Nest JS",
+    value: 100,
+  },
+  {
     name: "Express JS",
     value: 100,
   },
@@ -78,7 +82,7 @@ const skills = [
     value: 60,
   },
   {
-    name: "Mongooes,Prisma,TypeORM",
+    name: "Mongooes,TypeORM",
     value: 90,
   },
   {

@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/know-me/static/css/main.948e56c4.css",
-    "main.js": "/know-me/static/js/main.65888490.js",
+    "main.js": "/know-me/static/js/main.ba4fd4d7.js",
     "static/media/myPhoto.jpeg": "/know-me/static/media/myPhoto.a00648a1c41069a23640.jpeg",
     "index.html": "/know-me/index.html"
   },
   "entrypoints": [
     "static/css/main.948e56c4.css",
-    "static/js/main.65888490.js"
+    "static/js/main.ba4fd4d7.js"
   ]
 }
